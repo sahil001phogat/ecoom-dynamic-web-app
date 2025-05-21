@@ -1,0 +1,123 @@
+
+[
+  {
+    "id": "1",
+    "name": "Premium Wireless Headphones",
+    "price": 199.99,
+    "description": "Experience crystal-clear sound with these noise-cancelling wireless headphones. Perfect for music lovers and professionals who need to focus.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1583394838336-acd977736f90?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=684&q=80",
+    "stock": 15,
+    "features": ["Active Noise Cancellation", "30-hour Battery Life", "Bluetooth 5.0", "Quick Charge"]
+  },
+  {
+    "id": "2",
+    "name": "Slim Fit Cotton T-Shirt",
+    "price": 29.99,
+    "description": "A comfortable, lightweight t-shirt made from 100% organic cotton. This versatile piece is perfect for everyday wear.",
+    "category": "Clothing",
+    "image": "https://images.unsplash.com/photo-1576566588028-4147f3842f27?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=764&q=80",
+    "stock": 50,
+    "features": ["100% Organic Cotton", "Sustainable Production", "Machine Washable", "Available in Multiple Colors"]
+  },
+  {
+    "id": "3",
+    "name": "Professional Camera Lens",
+    "price": 499.99,
+    "description": "Capture stunning, professional-quality photos with this high-performance camera lens, designed for both amateur and professional photographers.",
+    "category": "Photography",
+    "image": "https://images.unsplash.com/photo-1617005082133-45a4474c2acf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80",
+    "stock": 8,
+    "features": ["Wide Aperture", "Fast Autofocus", "Weather-Sealed", "Compatible with Multiple Camera Brands"]
+  },
+  {
+    "id": "4",
+    "name": "Smart Fitness Watch",
+    "price": 149.99,
+    "description": "Track your fitness goals with this intelligent fitness watch. Monitor heart rate, steps, sleep quality, and more with this all-in-one health companion.",
+    "category": "Fitness",
+    "image": "https://images.unsplash.com/photo-1575311373937-040b8e1fd1b0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1888&q=80",
+    "stock": 20,
+    "features": ["Heart Rate Monitoring", "GPS Tracking", "Sleep Analysis", "Water Resistant"]
+  },
+  {
+    "id": "5",
+    "name": "Ergonomic Office Chair",
+    "price": 299.99,
+    "description": "Enhance your workspace with this ergonomically designed office chair. Features adjustable height, lumbar support, and premium cushioning for all-day comfort.",
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1505843490538-5133c6c7d0e1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",
+    "stock": 12,
+    "features": ["Adjustable Height", "Lumbar Support", "360° Swivel", "Breathable Mesh Back"]
+  },
+  {
+    "id": "6",
+    "name": "Organic Skincare Set",
+    "price": 89.99,
+    "description": "Rejuvenate your skin with this all-natural skincare set. Includes cleanser, toner, moisturizer, and serum made from organic, sustainably sourced ingredients.",
+    "category": "Beauty",
+    "image": "https://images.unsplash.com/photo-1612817288484-6f916006741a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+    "stock": 30,
+    "features": ["100% Organic", "Cruelty-Free", "Suitable for All Skin Types", "Eco-Friendly Packaging"]
+  },
+  {
+    "id": "7",
+    "name": "Stainless Steel Water Bottle",
+    "price": 24.99,
+    "description": "Stay hydrated on the go with this durable stainless steel water bottle. Keeps beverages cold for 24 hours or hot for 12 hours.",
+    "category": "Lifestyle",
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80",
+    "stock": 40,
+    "features": ["BPA-Free", "Vacuum Insulated", "Leak-Proof Design", "Multiple Colors Available"]
+  },
+  {
+    "id": "8",
+    "name": "Wireless Charging Pad",
+    "price": 39.99,
+    "description": "Charge your compatible devices wirelessly with this sleek charging pad. Fast charging capability and multiple device support make this a must-have tech accessory.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1618577144068-919723a231e1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+    "stock": 25,
+    "features": ["Fast Charging", "Multiple Device Support", "LED Indicator", "Compact Design"]
+  },
+  {
+    "id": "9",
+    "name": "Leather Laptop Bag",
+    "price": 129.99,
+    "description": "Carry your laptop and essentials in style with this premium leather laptop bag. Features multiple compartments for organized storage and a comfortable shoulder strap.",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1622560480605-d83c853bc5c3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1332&q=80",
+    "stock": 18,
+    "features": ["Genuine Leather", "Fits Laptops up to 15\"", "Multiple Compartments", "Water-Resistant"]
+  },
+  {
+    "id": "10",
+    "name": "Smart Home Speaker",
+    "price": 179.99,
+    "description": "Transform your home with this intelligent speaker system. Control your smart home devices, play music, get answers to questions, and more with simple voice commands.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1589256469067-ea99122bbdc4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+    "stock": 15,
+    "features": ["Voice Control", "360° Sound", "Smart Home Integration", "Multi-Room Audio Support"]
+  },
+  {
+    "id": "11",
+    "name": "Yoga Mat Premium",
+    "price": 59.99,
+    "description": "Enhance your yoga practice with this premium, eco-friendly yoga mat. The non-slip surface and optimal cushioning provide comfort and stability for all types of yoga.",
+    "category": "Fitness",
+    "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1220&q=80",
+    "stock": 22,
+    "features": ["Eco-Friendly Materials", "Non-Slip Surface", "Optimal Cushioning", "Carrying Strap Included"]
+  },
+  {
+    "id": "12",
+    "name": "Mechanical Keyboard",
+    "price": 119.99,
+    "description": "Experience responsive typing with this high-quality mechanical keyboard. Features customizable RGB lighting, programmable keys, and durable construction for gaming or work.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1618384887929-16ec33fab9ef?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+    "stock": 0,
+    "features": ["Mechanical Switches", "Customizable RGB Lighting", "Programmable Keys", "Anti-Ghosting Technology"]
+  }
+]

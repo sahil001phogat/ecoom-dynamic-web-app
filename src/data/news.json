@@ -1,0 +1,111 @@
+
+[
+  {
+    "id": "1",
+    "title": "New Summer Collection Just Arrived",
+    "content": "We're excited to announce the launch of our new summer collection! Featuring breathable fabrics, vibrant colors, and versatile designs, this collection is perfect for the warm months ahead. From casual tees to elegant evening wear, there's something for everyone. Our designers have worked tirelessly to bring you the latest trends while ensuring comfort and quality. Come visit our stores or browse online to discover your summer essentials. Limited quantities available, so shop early to avoid disappointment!",
+    "date": "2023-05-12",
+    "category": "Collections",
+    "image": "https://images.unsplash.com/photo-1492707892479-7bc8d5a4ee93?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1565&q=80",
+    "likes": 45
+  },
+  {
+    "id": "2",
+    "title": "Opening Hours Extended for Holiday Season",
+    "content": "To better serve our customers during the busy holiday shopping season, we're extending our store hours starting November 15th. All locations will now be open Monday through Saturday from 9 AM to 9 PM, and Sundays from 10 AM to 7 PM. Additionally, we'll have special midnight shopping events on Black Friday and the week before Christmas. Our online customer service team will also have extended hours to assist with your questions. We hope these extended hours will make your holiday shopping experience more convenient and stress-free. Happy holidays from all of us!",
+    "date": "2023-11-10",
+    "category": "Announcements",
+    "image": "https://images.unsplash.com/photo-1513311068348-19c8fbdc0bb6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+    "likes": 32
+  },
+  {
+    "id": "3",
+    "title": "Sustainable Practices: Our Commitment to the Planet",
+    "content": "At ShopVue, we're committed to reducing our environmental footprint. Today, we're proud to announce several new initiatives as part of our ongoing sustainability efforts. We're transitioning to 100% recyclable packaging, sourcing materials from eco-friendly suppliers, and implementing energy-efficient practices in all our warehouses. We've also partnered with OneTreePlanted to ensure a tree is planted for every order over $50. Our goal is to be carbon-neutral by 2025, and these steps bring us closer to that vision. Join us in making conscious choices for a greener future—because every small action counts towards a healthier planet.",
+    "date": "2023-04-22",
+    "category": "Sustainability",
+    "image": "https://images.unsplash.com/photo-1536882240095-0379873feb4e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1171&q=80",
+    "likes": 127
+  },
+  {
+    "id": "4",
+    "title": "Tech Sale: Up to 40% Off Electronics",
+    "content": "Calling all tech enthusiasts! Our annual technology sale is here with discounts of up to 40% on the latest electronics. From smartphones and laptops to smart home devices and audio equipment, find amazing deals on top brands. This is the perfect opportunity to upgrade your tech setup or get a head start on holiday shopping. The sale runs for two weeks only, and the most popular items tend to sell out quickly. Bonus: Spend over $200 and receive a free tech accessory of your choice. Shop online or in-store to take advantage of these incredible savings before they're gone!",
+    "date": "2023-09-05",
+    "category": "Sales",
+    "image": "https://images.unsplash.com/photo-1468495244123-6c6c332eeece?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1021&q=80",
+    "likes": 89
+  },
+  {
+    "id": "5",
+    "title": "Meet Our New Brand Ambassador",
+    "content": "We're thrilled to announce that internationally acclaimed actor and environmental activist, Emma Greene, is joining the ShopVue family as our new brand ambassador. Emma's commitment to sustainable living and ethical fashion aligns perfectly with our company values. Throughout the next year, Emma will be featured in our upcoming campaigns, participate in community events, and collaborate on a special eco-friendly collection set to launch this fall. 'I'm excited to partner with a brand that prioritizes both style and responsibility,' Emma said. 'Together, we'll show that you don't have to compromise on either.' Stay tuned for exclusive content and behind-the-scenes glimpses of our collaboration!",
+    "date": "2023-07-18",
+    "category": "Partnerships",
+    "image": "https://images.unsplash.com/photo-1484186139897-d5fc6b908812?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=780&q=80",
+    "likes": 156
+  },
+  {
+    "id": "6",
+    "title": "Customer Appreciation Week Starts Monday",
+    "content": "It's our favorite time of year—Customer Appreciation Week! Starting Monday, we're rolling out seven days of special offers, exclusive products, and fun events to thank you for your continued support. Each day will feature a different promotion, including flash sales, double reward points, free gifts with purchase, and more. Visit our website daily to unveil the surprise offer of the day, or sign up for SMS alerts to be notified instantly. Our loyalty members will receive additional perks, so make sure your membership is active. This is our way of saying thank you for being a part of the ShopVue community. We wouldn't be here without you!",
+    "date": "2023-08-25",
+    "category": "Events",
+    "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+    "likes": 78
+  },
+  {
+    "id": "7",
+    "title": "Now Offering International Shipping",
+    "content": "We're excited to announce that ShopVue now offers international shipping to over 60 countries! After numerous requests from customers abroad, we've expanded our delivery services to bring our products to fashion enthusiasts worldwide. All international orders over $100 qualify for free standard shipping, with express options available for those who can't wait to receive their items. Please note that delivery times vary by destination, and additional customs fees may apply depending on your country's regulations. Check our shipping page for the complete list of countries served, estimated delivery times, and any region-specific information. We can't wait to welcome our international customers to the ShopVue experience!",
+    "date": "2023-10-02",
+    "category": "Services",
+    "image": "https://images.unsplash.com/photo-1584461800247-2828596b6dc1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1119&q=80",
+    "likes": 92
+  },
+  {
+    "id": "8",
+    "title": "Fall Fashion Trends 2023: What's In and What's Out",
+    "content": "As the leaves begin to change, so do the fashion trends! Our style experts have compiled this season's must-have items and the pieces you might want to retire. This fall, we're seeing a return to rich, earthy tones like cinnamon, forest green, and deep burgundy. Oversized silhouettes continue to dominate, with chunky knits and relaxed tailoring taking center stage. Accessories are making bold statements with chunky chains, statement belts, and textured handbags. For footwear, combat boots and loafers are the versatile options that pair with everything from dresses to jeans. Visit our blog for the complete trend report and styling tips to help you build your perfect fall wardrobe.",
+    "date": "2023-09-12",
+    "category": "Fashion Tips",
+    "image": "https://images.unsplash.com/photo-1483985988355-763728e1935b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+    "likes": 211
+  },
+  {
+    "id": "9",
+    "title": "ShopVue App Now Available for Download",
+    "content": "Shopping just got easier! We're thrilled to announce the launch of our mobile app, available now for both iOS and Android devices. The app offers a seamless shopping experience with features designed to make finding and purchasing your favorite items simpler than ever. Enjoy personalized recommendations, easy navigation through categories, saved favorites, and streamlined checkout. App users will also receive exclusive offers and early access to sales. Plus, for a limited time, first-time app users will receive 15% off their initial purchase. Download the ShopVue app today from the App Store or Google Play and experience the future of shopping at your fingertips!",
+    "date": "2023-06-30",
+    "category": "Technology",
+    "image": "https://images.unsplash.com/photo-1535303311164-664fc9ec6532?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80",
+    "likes": 104
+  },
+  {
+    "id": "10",
+    "title": "Behind the Scenes: How Our Products Are Made",
+    "content": "Ever wondered about the journey from concept to creation for our products? Today, we're taking you behind the scenes of our design and manufacturing process. It all begins in our design studio, where our team sketches ideas, selects materials, and creates prototypes. Once approved, these designs move to our partner factories, all of which adhere to strict ethical and quality standards. Each item undergoes multiple quality checks before being packaged and shipped to our warehouses. We're committed to transparency about our supply chain and production methods, which is why we've launched a new section on our website where you can explore the origin story of each product line. We believe that knowing how and where your products are made helps you make more informed choices as a consumer.",
+    "date": "2023-03-15",
+    "category": "Company",
+    "image": "https://images.unsplash.com/photo-1554995207-c18c203602cb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+    "likes": 67
+  },
+  {
+    "id": "11",
+    "title": "Introducing Our Home Decor Collection",
+    "content": "We're excited to announce the expansion of ShopVue beyond fashion with our first-ever Home Decor Collection! Transform your living spaces with our curated selection of stylish and functional pieces designed to bring warmth, comfort, and personality to your home. The collection includes throw pillows, blankets, candles, wall art, vases, and small furniture items—all created with the same attention to detail and quality that you've come to expect from our clothing lines. Our designers have focused on versatile pieces that complement various interior styles, from minimalist to bohemian. The entire collection is available online now, and selected items can be found in our flagship stores. Bring the ShopVue aesthetic into your home and create spaces that truly reflect your style.",
+    "date": "2023-05-28",
+    "category": "Collections",
+    "image": "https://images.unsplash.com/photo-1551298370-9d3d53740c72?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80",
+    "likes": 130
+  },
+  {
+    "id": "12",
+    "title": "ShopVue Community: Supporting Local Artisans",
+    "content": "At ShopVue, we believe in the power of community and supporting local talent. That's why we're proud to introduce our new 'Local Artisan Spotlight' program, featuring unique products created by independent craftspeople from across the country. Each month, we'll showcase a different artisan in our stores and online, telling their story and offering their handcrafted goods. From handmade jewelry and organic skincare to artisanal home goods, these carefully selected items bring something special to our collection. By shopping these items, you're not just getting a unique product—you're supporting small businesses and helping preserve traditional crafts. Visit our website to learn more about our current featured artisans and their inspiring work.",
+    "date": "2023-02-09",
+    "category": "Community",
+    "image": "https://images.unsplash.com/photo-1607082350899-7e105aa886ae?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+    "likes": 95
+  }
+]
